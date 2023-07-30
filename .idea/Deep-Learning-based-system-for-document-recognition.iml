@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/image_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/image_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/image_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/audio_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/audio_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/audio_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/file_selector_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/example/text_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/example/text_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/example/text_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/bert_question_answer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/bert_question_answer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/bert_question_answer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/image_picker_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application/document_recognition/linux/flutter/ephemeral/.plugin_symlinks/tflite_flutter_helper/example/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
