@@ -1,8 +1,7 @@
 import 'dart:io';
 
-import 'package:document_recognition/classifier.dart';
-import 'package:document_recognition/classifier_quant.dart';
-// import 'package:flutter/foundation.dart';
+import 'package:document_recognition/classifier/classifier.dart';
+import 'package:document_recognition/classifier/classifier_quant.dart';
 import 'package:flutter/material.dart';
 import 'package:image/image.dart' as img;
 import 'package:image_picker/image_picker.dart';
@@ -25,7 +24,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatefulWidget {
-  MyHomePage({Key? key, this.title}) : super(key: key);
+  const MyHomePage({Key? key, this.title}) : super(key: key);
 
   final String? title;
 
