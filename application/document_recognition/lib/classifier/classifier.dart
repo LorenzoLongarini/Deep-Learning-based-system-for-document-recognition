@@ -78,7 +78,7 @@ abstract class Classifier {
     return ImageProcessorBuilder()
         .add(ResizeWithCropOrPadOp(cropSize, cropSize))
         .add(ResizeOp(
-            _inputShape[0], _inputShape[1], ResizeMethod.NEAREST_NEIGHBOUR))
+            _inputShape[1], _inputShape[2], ResizeMethod.NEAREST_NEIGHBOUR))
         .add(preProcessNormalizeOp)
         .build()
         .process(_inputImage);

@@ -1,0 +1,10 @@
+const icCIEfront = 'Carta di identità nuovo modello\nFronte';
+const icCIErear = 'Carta di identità nuovo modello\nRetro';
+const dlI11front = 'Patente in ottimo stato\nFronte';
+const dlI11rear = 'Patente in ottimo stato\nRetro';
+const dlI10front = 'Patente in pessimo stato\nFronte';
+const dlI10rear = 'Patente in pessimo stato\nRetro';
+const icTESfront = 'Carta di identità vecchio modello\nFronte';
+const icTESrear = 'Carta di identità vecchio modello\nRetro';
+const docNRfront = 'Documento non riconosciuto\nFronte';
+const docNRrear = 'Documento non riconosciuto\nRetro';
