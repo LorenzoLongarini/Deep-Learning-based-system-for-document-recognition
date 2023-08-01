@@ -80,6 +80,7 @@ class _AppState extends State<App> {
                     text: 'Upload an image \nto start prediction',
                   )
                 : Container(
+                    height: MediaQuery.of(context).size.height / 2.5,
                     padding: const EdgeInsets.all(15),
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(16),
